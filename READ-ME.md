@@ -1,0 +1,1 @@
+Este proyecto se ejecuta en Visual Studio Code. Para ello, se ha utilizado el lenguaje PHP, aplicando también estilos Bootstrap y usando Laravel.
