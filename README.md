@@ -38,11 +38,10 @@ php artisan serve
 
 Posteriormente, ingresa a tu navegador, En la sección de URL digitar "localhost:8000" y listo.
 
-MÓDULOS![Diagrama de BD](https://github.com/user-attachments/assets/960ea373-77fe-42f0-8c83-18d0c8888e0c)
-
+MÓDULOS
 ------- 
 El proyecto cuenta con las tablas Meidcamentos, Pedidos, Detalles_Pedidos,Proveedores, Ventas, Detalle_Ventas, Prescripciones y Detalle_Prescripciones.
 
-![Uploading Diagrama de BD.png…]()
+![Diagrama de BD](https://github.com/user-attachments/assets/960ea373-77fe-42f0-8c83-18d0c8888e0c
 
 
